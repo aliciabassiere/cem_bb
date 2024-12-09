@@ -225,9 +225,9 @@ class TechnoParameters:
     """
 
     def __init__(self):
-        self.kwbound = 57000 
+        self.kwbound = 155000 
         self.kgbound = 46000  
-        self.ksbound = 60000  
+        self.ksbound = 258000  
         self.step_w = 2000 
         self.step_s = 2000  
         self.step_g = 1000 
